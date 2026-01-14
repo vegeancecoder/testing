@@ -5,3 +5,6 @@ def test(num2):
 
 def newfunc(num):
     return num
+
+def thirdfunc(new):
+    return "hello world"
