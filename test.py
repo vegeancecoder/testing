@@ -1,4 +1,4 @@
-def test(num):
-    if num ==1:
-        return num
-    return num+test(num)
+def test(num2):
+    if num2 ==1:
+        return num2
+    return num2+test(num2)
