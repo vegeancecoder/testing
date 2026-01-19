@@ -3,3 +3,4 @@ def newfunc(test):
 
 def new(test):
     return None
+
